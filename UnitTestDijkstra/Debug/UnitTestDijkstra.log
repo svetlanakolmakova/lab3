@@ -1,0 +1,22 @@
+﻿  UnitTestDijkstra.cpp
+C:\Users\ROG\source\repos\DijkstraAlgorithm\DijkstraAlgorithm.h(54,24): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\ROG\source\repos\DijkstraAlgorithm\DijkstraAlgorithm.h(99,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\ROG\source\repos\DijkstraAlgorithm\DijkstraAlgorithm.h(116,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ROG\source\repos\DijkstraAlgorithm\list.h(117,41): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\ROG\source\repos\DijkstraAlgorithm\list.h(116): message : во время компиляции функции-члена класс шаблон "T List<T>::at(size_t)"
+C:\Users\ROG\source\repos\DijkstraAlgorithm\list.h(116): message :         with
+C:\Users\ROG\source\repos\DijkstraAlgorithm\list.h(116): message :         [
+C:\Users\ROG\source\repos\DijkstraAlgorithm\list.h(116): message :             T=int
+C:\Users\ROG\source\repos\DijkstraAlgorithm\list.h(116): message :         ]
+C:\Users\ROG\source\repos\DijkstraAlgorithm\DijkstraAlgorithm.h(118): message : выполняется компиляция ссылки на экземпляр шаблон функции "T List<T>::at(size_t)"
+C:\Users\ROG\source\repos\DijkstraAlgorithm\DijkstraAlgorithm.h(118): message :         with
+C:\Users\ROG\source\repos\DijkstraAlgorithm\DijkstraAlgorithm.h(118): message :         [
+C:\Users\ROG\source\repos\DijkstraAlgorithm\DijkstraAlgorithm.h(118): message :             T=int
+C:\Users\ROG\source\repos\DijkstraAlgorithm\DijkstraAlgorithm.h(118): message :         ]
+C:\Users\ROG\source\repos\DijkstraAlgorithm\DijkstraAlgorithm.h(109): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "List<T>"
+C:\Users\ROG\source\repos\DijkstraAlgorithm\DijkstraAlgorithm.h(109): message :         with
+C:\Users\ROG\source\repos\DijkstraAlgorithm\DijkstraAlgorithm.h(109): message :         [
+C:\Users\ROG\source\repos\DijkstraAlgorithm\DijkstraAlgorithm.h(109): message :             T=int
+C:\Users\ROG\source\repos\DijkstraAlgorithm\DijkstraAlgorithm.h(109): message :         ]
+C:\Users\ROG\source\repos\DijkstraAlgorithm\list.h(126,2): warning C4018: <: несоответствие типов со знаком и без знака
+  UnitTestDijkstra.vcxproj -> C:\Users\ROG\source\repos\DijkstraAlgorithm\Debug\UnitTestDijkstra.dll
