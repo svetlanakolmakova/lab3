@@ -1,0 +1,5 @@
+Saint-Peterburg; Moscow; 10; 20
+Moscow; Khabarovsk; 40; 35
+Saint-Peterburg; Khabarovsk; 14; N/A
+Vladivostok; Khabarovsk; N/A; 8
+Vladivostok; Saint-Peterburg; N/A; N/A
